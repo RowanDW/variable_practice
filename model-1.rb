@@ -17,3 +17,20 @@ bool3 = true
 array1 = ["hi", "hello", "howdy"]
 array2 = [1, 2, 3, 4]
 array3 = [true, false, true, false]
+
+# Hash variables
+hash1 = {
+  'name' => 'rowan'
+  'age' => '25'
+  'favorite animal' => 'squirrel'
+}
+hash2 = {
+  '1' => 'January'
+  '2' => 'February'
+  '3' => 'March'
+}
+hash3 = {
+  'num' => 'number'
+  'bool' => 'boolean'
+  'repo' => 'repository'
+}
