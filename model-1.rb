@@ -12,3 +12,8 @@ float3 = 888888888.0
 bool1 = true
 bool2 = false
 bool3 = true
+
+# Array variables
+array1 = ["hi", "hello", "howdy"]
+array2 = [1, 2, 3, 4]
+array3 = [true, false, true, false]
